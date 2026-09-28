@@ -1,0 +1,2 @@
+# Detect SQL files as SQL
+*.sql linguist-language=SQL
